@@ -2,7 +2,7 @@
 > - **URL**: https://www.sudipghimire.com.np
 > - **GitHub**: https://github.com/ghimiresdp
 >
-> [go to course contents](https://github.com/ghimiresdp/python-notes/)
+> [go to course contents](https://github.com/ghimiresdp/pythrone/)
 
 # 13.1. The `groupby()` Function
 
@@ -28,5 +28,3 @@ Output
 ```
 {'B': ['Bear'], 'C': ['Camel', 'Cat'], 'D': ['Dog', 'Donkey'], 'E': ['Elephant']}
 ```
-
-

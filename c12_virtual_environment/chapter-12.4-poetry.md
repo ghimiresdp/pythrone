@@ -2,7 +2,7 @@
 > - **URL**: https://www.sudipghimire.com.np
 > - **GitHub**: https://github.com/ghimiresdp
 >
-> [go to course contents](https://github.com/ghimiresdp/python-notes/)
+> [go to course contents](https://github.com/ghimiresdp/pythrone/)
 
 # Chapter 12.4: Poetry
 
@@ -123,4 +123,3 @@ We can also easily use poetry `add` command to add new package
 ```shell
 poetry add requests
 ```
-

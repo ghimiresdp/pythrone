@@ -2,7 +2,7 @@
 - **URL**: https://www.sudipghimire.com.np
 - **GitHub**: https://github.com/ghimiresdp
 
-[go to course contents](https://github.com/ghimiresdp/python-notes/)
+[go to course contents](https://github.com/ghimiresdp/pythrone/)
 <hr>
 
 # 11.2. Dependency management in Python
@@ -146,4 +146,3 @@ $ pip uninstall django
 ```
 
 since only one version of the package gets installed, we do not need to specify the version of the package to be uninstalled.
-
