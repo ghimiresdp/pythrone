@@ -2,7 +2,7 @@
 - **URL**: https://www.sudipghimire.com.np
 - **GitHub**: https://github.com/ghimiresdp
 
-[go to course contents](https://github.com/ghimiresdp/python-notes/)
+[go to course contents](https://github.com/ghimiresdp/pythrone/)
 <hr>
 
 # 12.1. Introduction to Virtual environments

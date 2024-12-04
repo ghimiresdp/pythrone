@@ -2,7 +2,7 @@
 > - **URL**: https://www.sudipghimire.com.np
 > - **GitHub**: https://github.com/ghimiresdp
 >
-> [go to course contents](https://github.com/ghimiresdp/python-notes/)
+> [go to course contents](https://github.com/ghimiresdp/pythrone/)
 
 **Table of Contents**
 - [13.2. The `sorted()` Function](#132-the-sorted-function)
