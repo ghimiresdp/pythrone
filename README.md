@@ -1,8 +1,13 @@
-# Python Notes
+# `pythrone` (Python Notes)
 
-**_A repository for Python course notes, examples, and lab exercises targeted to my students and interns._**
+**_`pythrone` is a repository for Python course notes, examples, and lab exercises targeted to students, professionals, and enthusiasts._**
 
-You can `clone` or `fork` the repository and review the course contents, examples, and attend exercises.
+This repository is intended to provide you a quick guide to starting your
+journey as a python programmer.
+
+> You are advised to **fork** this repository and solve problems as you proceed
+> to different levels while still being able to sync with the new changes in the
+> repository.
 
 ## Course Difficulty Level
 
@@ -154,7 +159,7 @@ You can `clone` or `fork` the repository and review the course contents, example
 The repository has its folder structure as shown in example below:
 
 ```
-python-notes
+pythrone
 ├── LICENSE
 ├── README.md
 ├── c01_basics
@@ -187,11 +192,11 @@ for pulling the future changes you can add new `remote` as upstream in your
 local repository with the commands below:
 
 ```shell
-# step 1: add the upstream remote as git@github.com:ghimiresdp/python-notes.git
+# step 1: add the upstream remote as git@github.com:ghimiresdp/pythrone.git
 # step 2: pull from the upstream
 # step 3: push to the origin
 
-git remote add upstream git@github.com:ghimiresdp/python-notes.git
+git remote add upstream git@github.com:ghimiresdp/pythrone.git
 git pull upstream main
 git push origin main
 ```
