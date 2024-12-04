@@ -1,10 +1,3 @@
-- **created by**: Sudip Ghimire
-- **URL**: https://www.sudipghimire.com.np
-- **GitHub**: https://github.com/ghimiresdp
-
-[go to course contents](https://github.com/ghimiresdp/pythrone/)
-<hr>
-
 # 12.1. Introduction to Virtual environments
 
 Let us consider that we have to work simultaneously on 2 different projects with different package dependencies as follows

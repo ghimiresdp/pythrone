@@ -1,10 +1,3 @@
-- **created by**: Sudip Ghimire
-- **URL**: https://www.sudipghimire.com.np
-- **GitHub**: https://github.com/ghimiresdp
-
-[go to course contents](https://github.com/ghimiresdp/pythrone/)
-<hr>
-
 # 12.2. `venv` and its usage
 ref: https://docs.python.org/3/library/venv.html
 

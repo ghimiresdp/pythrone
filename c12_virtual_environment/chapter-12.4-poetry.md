@@ -1,9 +1,3 @@
-> - **created by**: Sudip Ghimire
-> - **URL**: https://www.sudipghimire.com.np
-> - **GitHub**: https://github.com/ghimiresdp
->
-> [go to course contents](https://github.com/ghimiresdp/pythrone/)
-
 # Chapter 12.4: Poetry
 
 **Table of Contents:**

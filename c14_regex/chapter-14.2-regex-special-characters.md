@@ -1,7 +1,3 @@
-- **created by**: Sudip Ghimire
-- **URL**: https://www.sudipghimire.com.np
-- **Github**: https://github.com/ghimiresdp
-
 **Table of Contents**
 
 - [14.2. REGEX Special characters in Regex](#142-regex-special-characters-in-regex)

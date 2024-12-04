@@ -1,10 +1,3 @@
-- **created by**: Sudip Ghimire
-- **URL**: https://www.sudipghimire.com.np
-- **GitHub**: https://github.com/ghimiresdp
-
-[go to course contents](https://github.com/ghimiresdp/pythrone/)
-<hr>
-
 # 12.3. `pipenv` and its usage
 
 - [12.3. `pipenv` and its usage](#123-pipenv-and-its-usage)

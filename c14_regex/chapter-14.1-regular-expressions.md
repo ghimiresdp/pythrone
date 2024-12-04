@@ -1,7 +1,3 @@
-- **created by**: Sudip Ghimire
-- **URL**: https://www.sudipghimire.com.np
-- **Github**: https://github.com/ghimiresdp
-
 **Table of Contents**
 
 # Chapter 14 Introduction to Regular Expressions
@@ -65,4 +61,3 @@ For Example
 
 - `"Ap+le"` matches  words `Aple`, `Apple`, `Appple`, etc.
 - `"b..k"` matches  words `book`, `beak`, `b ok`, etc.
-

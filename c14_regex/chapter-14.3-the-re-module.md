@@ -1,7 +1,3 @@
-- **created by**: Sudip Ghimire
-- **URL**: https://www.sudipghimire.com.np
-- **Github**: https://github.com/ghimiresdp
-
 **Table of Contents**
 - [14.3. The `re` module](#143-the-re-module)
   - [`re.compile()` function](#recompile-function)
