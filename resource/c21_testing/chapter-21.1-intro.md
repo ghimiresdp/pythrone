@@ -74,6 +74,28 @@ Tests can be classified into different types based on its category.
 
 ## Testing Approaches
 
+There are different testing approach depending on who is testing the software.
+Sometimes, it is better to test the software by those people who knows what is
+being done with the software whereas, it is better to test by some other people
+sometimes to know whether people can see the solution from another angle.
+
 ### Black-box testing
+
+Black-box testing is a software testing method where the tester evaluates the
+functionality of an application without knowing the internal code, structure,
+or implementation. The focus is entirely on inputs, outputs, and the expected
+behavior of the software.
+
 ### White-box testing
+
+White-box testing is a software testing method where the tester examines the
+internal structure, design, or code of the application to ensure that it works
+as expected. It is also known as clear-box testing, glass-box testing, or
+structural testing.
+
 ### Grey-box testing
+
+Grey-box testing is a software testing method that combines aspects of both
+black-box and white-box testing. The tester has partial knowledge of the
+internal workings of the software, which is used alongside functional testing
+to improve test coverage and effectiveness.
