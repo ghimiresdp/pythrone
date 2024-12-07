@@ -4,6 +4,7 @@
 - [Chapter 21.2: Testing using `unittest` module](#chapter-212-testing-using-unittest-module)
   - [Introduction to `unittest`](#introduction-to-unittest)
     - [Example of unittest](#example-of-unittest)
+  - [`setUp` and `tearDown` methods](#setup-and-teardown-methods)
 
 
 
@@ -30,4 +31,21 @@ def reverse_word(word: str):
 class TestReverseWord(unittest.TestCase):
     def test_reverse():
         self.assertEqual(reverse_word("abcde"), "edcba")
+
+
+if __name__ == "__main__":
+    main()
+```
+
+## `setUp` and `tearDown` methods
+
+A setup method is a method that runs before each test. The `setUp` method
+generally initializes values before testcases are run. For example, If we need
+an authorization token to test an API, we can get them in the `setUp` method.
+
+A `tearDown` method is a method that runs after each test. This method is used
+as a cleanup method after test gets executed.
+
+An example of setup and teardowm methods are as follows:
+```python
 ```
