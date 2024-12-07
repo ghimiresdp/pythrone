@@ -1,9 +1,33 @@
 # Chapter 21.2: Testing using `unittest` module
 
 **Table of contents**:
+- [Chapter 21.2: Testing using `unittest` module](#chapter-212-testing-using-unittest-module)
+  - [Introduction to `unittest`](#introduction-to-unittest)
+    - [Example of unittest](#example-of-unittest)
 
-### 🚧 Under Construction 🚧
-This section is currently incomplete and will be updated in the future. Stay tuned for more content!
 
-💡 **Want to contribute?**
-Fork the repository, make your changes, and submit a Pull Request. Your contributions are greatly appreciated! 🙌
+
+## Introduction to `unittest`
+
+The `unittest` module is a python's builtin test module. It contains all basics
+of software testing, example: test discovery,assertion, setup/teardown, etc.
+
+As python is an Object-oriented programming language, it's `unittest` module
+also implements Class-based interface to setup the test module. We can easily
+import `unittest` module to start testing our software.
+
+### Example of unittest
+
+The following is a basic example of a testcase which will test for the
+correctness of the given function, "reverse_word".
+
+```python
+import unittest
+
+def reverse_word(word: str):
+    return word[::-1]
+
+class TestReverseWord(unittest.TestCase):
+    def test_reverse():
+        self.assertEqual(reverse_word("abcde"), "edcba")
+```
