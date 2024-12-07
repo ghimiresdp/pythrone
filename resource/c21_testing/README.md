@@ -1,18 +1,7 @@
-[go to course contents](https://github.com/ghimiresdp/pythrone/)
-<hr>
-
-# Chapter 20: Advanced Type Hinting using `Typing` module
-
-> **Note**:
->
-> please refer to the repository
-> **[python projects](https://github.com/ghimiresdp/python-projects)** for more
-> exercises and projects related to this chapter.
+# Chapter 21: Software Testing in Python
 
 **Table of contents**:
 
-### 🚧 Under Construction 🚧
-This section is currently incomplete and will be updated in the future. Stay tuned for more content!
-
-💡 **Want to contribute?**
-Fork the repository, make your changes, and submit a Pull Request. Your contributions are greatly appreciated! 🙌
+- [21.1: Introduction to Software Testing](./chapter-21.1-intro.md)
+- [21.2: Testing using `unittest` module](./chapter-21.2-unittest.md)
+- [21.3: The `pytest` Package](./chapter-21.3-pytest.md)

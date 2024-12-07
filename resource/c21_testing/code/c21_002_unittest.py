@@ -1,9 +1,3 @@
-"""
-# ! Python `unittest` module
-
- - A builtin module for testing our code
-"""
-
 from unittest import TestCase, main
 
 

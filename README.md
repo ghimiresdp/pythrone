@@ -153,10 +153,11 @@ journey as a python programmer.
 18. [**`http` module**](resource/c18_python_http)
 19. [**`requests` library**](resource/c19_requests)
 20. [**Advanced Type hinting**](resource/c20_advanced_type_hinting)
-20. **[Software Testing](resource/c21_testing/)**
-    - [Introduction to Software testing](resource/c21_testing/)
-    - [Software testing with unittest](resource/c21_testing/)
-    - [Software testing with pytest](resource/c21_testing/)
+21. **[Software Testing](resource/c21_testing/)**
+    - [21.1: Introduction to Software Testing](./resource/c21_testing/chapter-21.1-intro.md)
+    - [21.2: Testing using `unittest` module](./resource/c21_testing/chapter-21.2-unittest.md)
+    - [21.3: The `pytest` Package](./resource/c21_testing/chapter-21.3-pytest.md)
+
 
 ## Folder Structure
 

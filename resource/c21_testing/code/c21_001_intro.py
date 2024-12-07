@@ -7,14 +7,16 @@
 """
 
 
-def add(a, b):
-    return a + b
+def multiply_divide(number):
+    if number % 2 == 0:
+        return int(number / 2)
+    return number * 2
 
 
-def test_add():
-    assert add(1, 2) == 3
+def test():
+    assert multiply_divide(4) == 2
 
-    # assert add(1, 2) == 4
+    assert multiply_divide(4) == 8  # AssertionError
     """NOTE: if we uncomment the above line, we get an `AssertionError`.
     Assertion error occurs when we do not get expected result.
 
@@ -23,4 +25,5 @@ def test_add():
     """
 
 
-test_add()
+if __name__ == "__main__":
+    test()
