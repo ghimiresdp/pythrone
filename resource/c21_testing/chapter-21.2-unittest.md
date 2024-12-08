@@ -48,4 +48,20 @@ as a cleanup method after test gets executed.
 
 An example of setup and teardowm methods are as follows:
 ```python
+def celsius_to_fahrenheit(celsius: float):
+    return (9 / 5) * celsius + 32
+
+
+class TestTemperatureChange(TestCase):
+    def setUp(self) -> None:
+        # This method runs before each test case inside of this test class
+        self.celsius = 37
+
+    def tearDown(self) -> None:
+        # This method runs after each test case inside of this test class
+        del self.celsius
+
+    def test_conversion_from_setup(self):
+        self.assertAlmostEqual(celsius_to_fahrenheit(self.celsius), 98.6)
+
 ```

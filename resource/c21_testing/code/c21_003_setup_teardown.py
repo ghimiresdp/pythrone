@@ -17,11 +17,13 @@ class TestTemperatureChange(TestCase):
     @classmethod
     def setUpClass(cls) -> None:
         # This method runs once before test case inside of this test class start
-        cls.celsius = 37
-        return super().setUpClass()
+        cls.initial_value = 0
 
-    def test_raises_error(self):
-        self.assertAlmostEqual(celsius_to_fahrenheit(37), 98.6)
+    def test_conversion_from_setup_class(self):
+        self.assertEqual(self.initial_value, 0)
+
+    def test_conversion_from_setup(self):
+        self.assertAlmostEqual(celsius_to_fahrenheit(self.celsius), 98.6)
 
 
 if __name__ == "__main__":
