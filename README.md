@@ -1,6 +1,6 @@
-# `pythrone` (Python Notes)
+# `python-perks` (Python Notes)
 
-**_`pythrone` is a repository for Python course notes, examples, and lab exercises targeted to students, professionals, and enthusiasts._**
+**_`python-perks` is a repository for Python course notes, examples, and lab exercises targeted to students, professionals, and enthusiasts._**
 
 This repository is intended to provide you a quick guide to starting your
 journey as a python programmer.
@@ -196,11 +196,11 @@ for pulling the future changes you can add new `remote` as upstream in your
 local repository with the commands below:
 
 ```shell
-# step 1: add the upstream remote as git@github.com:ghimiresdp/pythrone.git
+# step 1: add the upstream remote as git@github.com:ghimiresdp/python-perks.git
 # step 2: pull from the upstream
 # step 3: push to the origin
 
-git remote add upstream git@github.com:ghimiresdp/pythrone.git
+git remote add upstream git@github.com:ghimiresdp/python-perks.git
 git pull upstream main
 git push origin main
 ```

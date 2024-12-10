@@ -1,6 +1,3 @@
-[go to course contents](https://github.com/ghimiresdp/pythrone/)
-<hr>
-
 # Chapter 20: Advanced Type Hinting using `Typing` module
 
 > **Note**:

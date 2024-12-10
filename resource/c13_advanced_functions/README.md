@@ -1,5 +1,3 @@
-> [go to course contents](https://github.com/ghimiresdp/pythrone/)
-
 # Chapter 13: Advanced Functions
 
 > **Note**:
