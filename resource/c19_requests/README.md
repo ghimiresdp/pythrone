@@ -1,6 +1,3 @@
-[go to course contents](https://github.com/ghimiresdp/pythrone/)
-<hr>
-
 # Chapter 19: the `requests` module
 
 > **Note**:

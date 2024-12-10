@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pythrone"
+name = "python-perks"
 version = "1.0.0"
 description = "A repository for Python course notes, examples, and lab exercises targeted to students, professionals, and enthusiasts."
 authors = ["Sudip Ghimire <ghimiresdp@gmail.com>"]
